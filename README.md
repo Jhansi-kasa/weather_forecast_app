@@ -1,4 +1,4 @@
-# Weather
+# SkyCast
 
 A native Android weather app (Java) built with Retrofit, Room, Glide, and MPAndroidChart. It lets a user log in, search or auto-detect a city, view a 5‑day forecast, save favorite cities, and drill into hourly detail (temperature chart, sunrise/sunset arc, humidity, wind, pressure, visibility).
 
